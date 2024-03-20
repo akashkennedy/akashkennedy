@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I'm currently learning JavaScript<br>😎 A curious Tech Enthusiast<br>💻 I'm a Front-End Developer<br>I'm Looking for Opportunities<br>I use "arch btw" (soon)<br>🗲 Fun Fact: I Know How to Exit VIM
+<code>Aspiring Front-End Developer && Tech Enthusiast</code>
+🔭 I'm currently learning React js<br>😎 A curious Tech Enthusiast<br>💻 I'm a Front-End Developer<br>I'm Looking for Opportunities<br>
 
 
 ## 🌐 Socials:
