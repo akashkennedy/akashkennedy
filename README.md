@@ -1,5 +1,5 @@
 # 💫 About Me:
-<code>Aspiring Front-End Developer && Tech Enthusiast</code>
+<code>Aspiring Front-End Developer && Tech Enthusiast</code> <br>
 🔭 I'm currently learning React js<br>😎 A curious Tech Enthusiast<br>💻 I'm a Front-End Developer<br>I'm Looking for Opportunities<br>
 
 
