@@ -1,10 +1,8 @@
 
 ```javascript
 const akash = {
-  pronouns: "He" | "Him",
   location: "Chennai, India",
   code: ["TypeScript", "JavaScript", "HTML", "CSS"],
-  askMeAbout: ["web dev", "UI/UX", "front-end", "freelancing"],
   technologies: {
       frontEnd: {
           js: ["React", "Next.js", "Redux"],
@@ -13,7 +11,7 @@ const akash = {
       backEnd: {
           js: ["Node", "Express"]
       },
-      languages: ["Python"],
+      languages: ["Typescript"],
       design: ["Figma"],
       deploy: ["Vercel"]
   },
