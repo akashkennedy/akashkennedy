@@ -1,7 +1,6 @@
 
 ```javascript
 const akash = {
-  location: "Chennai, India",
   code: ["TypeScript", "JavaScript", "HTML", "CSS"],
   technologies: {
       frontEnd: {
@@ -15,7 +14,7 @@ const akash = {
       design: ["Figma"],
       deploy: ["Vercel"]
   },
-  currentFocus: "Improving UI/UX design skills",
+  currentFocus: "C Language",
   funFact: "Coding through night shifts, one commit at a time. 🌙"
 };
 ```
